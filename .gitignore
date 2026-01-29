@@ -233,4 +233,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
+# Claude
+.claude
